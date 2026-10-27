@@ -1,0 +1,6 @@
+
+Machine Learning is a branch of Artificial Intelligence.
+Supervised learning uses labeled training data.
+Unsupervised learning discovers patterns in unlabeled data.
+Overfitting happens when a model learns the training data too closely.
+RAG retrieves relevant information from documents before generating an answer.
