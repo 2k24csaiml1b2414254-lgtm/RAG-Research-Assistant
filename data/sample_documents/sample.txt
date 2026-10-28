@@ -1,6 +1,10 @@
+Artificial Intelligence (AI) enables machines to perform tasks
+that normally require human intelligence.
 
-Machine Learning is a branch of Artificial Intelligence.
-Supervised learning uses labeled training data.
-Unsupervised learning discovers patterns in unlabeled data.
-Overfitting happens when a model learns the training data too closely.
-RAG retrieves relevant information from documents before generating an answer.
+Machine Learning (ML) is a branch of AI. Supervised learning
+uses labeled training data, while unsupervised learning
+discovers patterns in unlabeled data.
+
+Retrieval-Augmented Generation (RAG) retrieves relevant
+information from external documents and uses that information
+to generate context-aware answers.
